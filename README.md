@@ -27,7 +27,7 @@ npm run dev
 ```
 
 ## :wrench: Histórico de comandos
-Criando o projeto web com o Next
+Criando o projeto web com o framework Next
 ```
 npx create-next-app@latest --use-npm
 ```
