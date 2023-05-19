@@ -31,3 +31,7 @@ Criando o projeto web com o framework Next
 ```
 npx create-next-app@latest --use-npm
 ```
+Intalando biblioteca de icones lucide-react
+```
+npm i lucide-react
+```
