@@ -5,8 +5,7 @@
 Projeto criado no evento da Rocketseat NLW-Spacetime
 
 ## :books: Funcionalidades
-* 
-* 
+* autenticação (OAuth) usando o github
 * 
 
 ## :wrench: Tecnologias utilizadas
