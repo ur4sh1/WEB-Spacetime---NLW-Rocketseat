@@ -34,3 +34,11 @@ Intalando biblioteca de icones lucide-react
 ```
 npm i lucide-react
 ```
+Instalando o axios
+```
+npm i axios
+```
+Instalando o jwt-decode
+```
+npm i jwt-decode
+```
